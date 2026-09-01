@@ -1,2 +1,8 @@
 # KentyoProject
 県庁プロジェクトチームBのリポジトリ
+
+アップロードする際は
+Assets
+Packages
+ProjectSetting
+以外のファイルをすべて消してからアップロードすること
