@@ -5,4 +5,4 @@
 Assets
 Packages
 ProjectSetting
-以外のファイルをすべて消してからアップロードすること
+以外のファイルをすべて消してからZipにしてアップロードすること
